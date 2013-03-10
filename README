@@ -1,0 +1,19 @@
+
+FSettings is an .ini file manipulation library written in F#.
+
+  * Read and write .ini files
+  * Preserves structure such as comments and unrecognized syntax
+  * Access to globals
+  * Supports multi-line values through enclosing quotes or ticks
+
+Dependencies (included):
+
+  * Futility: https://github.com/danfinch/futility
+  * FParsec: http://www.quanttec.com/fparsec/
+
+License: Public Domain
+
+Maintainers:
+
+  * Dan Finch (d@nfin.ch)
+
